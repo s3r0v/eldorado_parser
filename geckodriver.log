@@ -1,0 +1,406 @@
+1630358045200	geckodriver	INFO	Listening on 127.0.0.1:49463
+1630358046067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofile2jIIVY"
+*** You are running in headless mode.
+1630358049395	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofile2jIIVY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630358051883	Marionette	INFO	Listening on port 49474
+1630358054384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630358512502	geckodriver	INFO	Listening on 127.0.0.1:49911
+1630358513476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileKhEFtA"
+*** You are running in headless mode.
+1630358519327	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileKhEFtA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630358526453	Marionette	INFO	Listening on port 49922
+1630358526601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://cdn.retailrocket.ru/content/javascript/tracking.js line 3 > eval, line 702: TypeError: container is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630358578858	geckodriver	INFO	Listening on 127.0.0.1:50309
+1630358579903	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilejKwTkw"
+*** You are running in headless mode.
+1630358584547	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilejKwTkw/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630358591673	Marionette	INFO	Listening on port 50321
+1630358591792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://cdn.retailrocket.ru/content/javascript/tracking.js line 3 > eval, line 702: TypeError: container is null
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript error: https://static.eldorado.ru/bitrix/components/eldorado/3d.review/templates/.default/js3d.js, line 269: TypeError: e is undefined
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630358925017	geckodriver	INFO	Listening on 127.0.0.1:50843
+1630358925943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofile8FWDvc"
+*** You are running in headless mode.
+1630358933880	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofile8FWDvc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630358949629	Marionette	INFO	Listening on port 50854
+1630358950370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630359138768	geckodriver	INFO	Listening on 127.0.0.1:51386
+1630359139744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileYZbo2v"
+*** You are running in headless mode.
+1630359143580	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileYZbo2v/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630359155224	Marionette	INFO	Listening on port 51397
+1630359155468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630359326243	geckodriver	INFO	Listening on 127.0.0.1:51881
+1630359327131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileOXYyQb"
+*** You are running in headless mode.
+1630359333162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileOXYyQb/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630359348669	Marionette	INFO	Listening on port 51893
+1630359349146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript error: https://static.eldorado.ru/bitrix/components/eldorado/3d.review/templates/.default/js3d.js, line 269: TypeError: e is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+1630359510150	geckodriver	INFO	Listening on 127.0.0.1:52513
+1630359511101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileUxS1Bd"
+*** You are running in headless mode.
+1630359515631	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileUxS1Bd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630359527832	Marionette	INFO	Listening on port 52524
+1630359528222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: https://cdn.retailrocket.ru/content/javascript/tracking.js line 3 > eval, line 702: TypeError: container is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://static.eldorado.ru/bitrix/components/eldorado/3d.review/templates/.default/js3d.js, line 269: TypeError: e is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+1630359652179	geckodriver	INFO	Listening on 127.0.0.1:53039
+1630359653101	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilesDTYPW"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+*** You are running in headless mode.
+1630359658973	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilesDTYPW/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630359671993	Marionette	INFO	Listening on port 53050
+1630359672291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+1630359759171	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://www.eldorado.ru/cat/detail/holodilnik-lg-doorcoolingplus-ga-b509sqkl/?show=response line 1 > injectedScript, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630359901000	geckodriver	INFO	Listening on 127.0.0.1:53813
+1630359902719	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilerDsVQu"
+*** You are running in headless mode.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630359909190	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofilerDsVQu/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630359943262	Marionette	INFO	Listening on port 53824
+1630359943761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xFFF7,name=BUILD_IDS_MATCH_MESSAGE) Channel error: cannot send/recv
+
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+1630360089568	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+1630360141031	geckodriver	INFO	Listening on 127.0.0.1:54658
+1630360141974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileQ9XtQh"
+*** You are running in headless mode.
+1630360153800	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/7b/5ynghwdn3gn_rngft_vpg75r0000gn/T/rust_mozprofileQ9XtQh/search.json.mozlz4", (void 0)))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 6437, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1275
+[Parent 6437, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:731
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1630360181809	Marionette	INFO	Listening on port 54669
+1630360183225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 6437, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1275
+[Parent 6437, IPC I/O Parent] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:731
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+[Parent 6437, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1275
+[Parent 6437, IPC I/O Parent] WARNING: Failed to launch rdd subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:731
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+1630360268269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+[Parent 6437, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1275
+[Parent 6437, IPC I/O Parent] WARNING: Failed to launch rdd subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:731
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xFFF7,name=BUILD_IDS_MATCH_MESSAGE) Channel error: cannot send/recv
+
+JavaScript error: https://static.eldorado.ru/bitrix/components/eldorado/3d.review/templates/.default/js3d.js, line 269: TypeError: e is undefined
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://static.eldorado.ru/bitrix/components/eldorado/3d.review/templates/.default/js3d.js line 4 > srcScript, line 269: TypeError: e is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript error: https://www.eldorado.ru/c/kholodilniki/ line 310 > injectedScript, line 1: ReferenceError: VK is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/redesign3/q-slider-init.js?0817122111, line 39: unreachable code after return statement
+JavaScript warning: https://static.eldorado.ru/static/js/lenvendo/quick_view/popupDetailProduct.js?0817122111, line 276: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TTXGL3, line 250: unreachable code after return statement
+[Parent 6437, IPC Launch #1] WARNING: parent WaitForMessage() failed: 0x10004003 (ipc/rcv) timed out: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1275
+[Parent 6437, IPC I/O Parent] WARNING: Failed to launch rdd subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:731
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

@@ -46,10 +46,10 @@ def get_reviews_data():
     for k in range(len(reviews)):
         data.append({
                 "url":str(driver.current_url), 
-                "author":BeautifulSoup(str(reviews[k].find('span', {'class':'userName'})), "lxml").get_text(),
-                "date":BeautifulSoup(str(reviews[k].find('div', {'class':'userReviewDate'})), "lxml").get_text(),
+                "author":BeautifulSoup(str(reviews[k].find('span', {'class':'userName'})), "lxml").get_text().strip('\n').strip('\t').strip('                    '),
+                "date":BeautifulSoup(str(reviews[k].find('div', {'class':'userReviewDate'})), "lxml").get_text().strip('\n').strip('\t').strip('                    '),
                 "stars":check_stars(reviews[k]),
-                "content":BeautifulSoup(str(reviews[k].find('div', {'class':'middleBlockItem'})), "lxml").get_text(),
+                "content":BeautifulSoup(str(reviews[k].find('div', {'class':'middleBlockItem'})), "lxml").get_text().strip('\n').strip('\t').strip('                    '),
         })
 
 for i in range(3):
