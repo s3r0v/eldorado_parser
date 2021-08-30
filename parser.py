@@ -69,7 +69,6 @@ for i in range(3):
     for j in range(3):
         item = BeautifulSoup(str(items[j]), features="lxml").find('a')['href']
         link = "https://www.eldorado.ru"+str(item)+"?show=response#customTabAnchor"
-        print(link)
         driver.get(link)
         driver.execute_script("window.scrollTo(0, 1000);")
         get_reviews_data()
